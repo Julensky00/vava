@@ -1,0 +1,41 @@
+body{
+    background: repeating-linear-gradient(#f5f4fc, #cbdee8 50px);
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    font-family: Nosifer;
+}
+
+blockquote{
+    font-family: Brush Script MT;
+    font-size: 20px;
+}
+
+small{
+    text-decoration: underline;
+}
+
+#gg{
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    height: 30px;
+    margin: 0 auto;
+    width: 98%;
+}
+
+.dd{
+    border:10px solid black;
+    border-radius: 50%;
+}
+
+#popo{
+    border-style: dotted;
+}
